@@ -28,5 +28,6 @@
     "tailwindcss": "^3.4.7",
     "typescript": "^5.2.2",
     "vite": "^5.3.4"
-  }
+  },
+  "gitHead": "b33de338aa4008f0df5cf719b607553c30c0b593"
 }
